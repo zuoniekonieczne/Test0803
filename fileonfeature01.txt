@@ -1,2 +1,3 @@
 this is my file on feature branch
 added some lines to edit the file
+new line on new branch
